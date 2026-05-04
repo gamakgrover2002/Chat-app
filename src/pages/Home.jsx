@@ -1,8 +1,7 @@
-
 function Home() {
-  return (
-    <div>Hiome</div>
-  )
-}
-
-export default Hiome
+    return (
+      <div>Hiome</div>
+    )
+  }
+  
+  export default Hiome
