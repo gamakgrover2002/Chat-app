@@ -1,6 +1,7 @@
 import { Switch } from "react-router-dom";
 import SignIn from "./pages/SignIn";
-import PrivateRoute from "./component/PrivateRoute";
+import PrivateRoute from "./components/PrivateRoute";
+import PublicRoute from "./components/PublicRoute";
 function App(){
   return (
     <Switch>
