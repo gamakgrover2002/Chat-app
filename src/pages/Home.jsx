@@ -1,7 +1,7 @@
 function Home() {
     return (
-      <div>Hiome</div>
+      <div>Home</div>
     )
   }
   
-  export default Hiome
+  export default Home
