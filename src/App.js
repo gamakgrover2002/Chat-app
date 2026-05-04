@@ -4,6 +4,7 @@ import PrivateRoute from "./component/PrivateRoute";
 function App(){
   return (
     <Switch>
+       <h1>Welcome to the App!</h1>
       <PublicRoute path="/signin">
         <SignIn />
       </PublicRoute>
@@ -11,7 +12,7 @@ function App(){
         <Home />
       </PrivateRoute>
       
-      <h1>Welcome to the App!</h1>
+     
     </Switch>
   );
 }

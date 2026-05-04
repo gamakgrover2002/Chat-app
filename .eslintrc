@@ -19,8 +19,8 @@
     "no-console": [0],
     "arrow-body-style": [0],
     "prefer-arrow-callback": [0],
-    "import/default": "off",
-"import/no-named-as-default": "off",
+    "import/default": [0],
+"import/no-named-as-default": [0],
 
     
   }
