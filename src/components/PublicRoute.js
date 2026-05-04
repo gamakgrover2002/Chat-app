@@ -1,10 +1,8 @@
-function PublicRoute({children,...routeProps}) {
 
-    return (
-      <Route {...routeProps}>
-        {children}
-      </Route>
-    )
-  }
-  
-  export default PublicRoute;
+function PublicRoute({ children }) {
+
+
+  return  children ;
+}
+
+export default PublicRoute;
